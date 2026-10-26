@@ -1,10 +1,12 @@
-# MCR in Eugene
+# MCR Mahjong in Eugene
 
 There are hundreds of variations of mahjong in the world. MCR is the International Official version, aka Mahjong Competition Rules or Chinese Official rules. It is a modern rule set established by the Chinese government in 1998 and governed by the World Mahjong Organization (est. 2006) headquartered in Beijing, China. [Source](https://en.wikipedia.org/wiki/World_Mahjong_Organization) 
 
 Objectives
 - Oct. 2026: find a venue (pending), mahjong set (done), and people (3/4) to play with.
 - If there's demand, can start a business giving lessons, selling sets, selling accessories and swag.
+
+Got suggestions? Feedback? Send your thoughts through the [Contact Us page](contact.html).
 
 ## Recommended resources
 
@@ -32,6 +34,8 @@ Objectives
 - MCR Mahjong Calculator by Valin: [https://mahjongcalculators.com/mcr/](https://mahjongcalculators.com/mcr/)
 - Interactive Online MCR Calculator by MahjongSoft.com: [https://www.mahjongsoft.com/calc.php](https://www.mahjongsoft.com/calc.php)
 
+
+
 ### Printable Sheets
-- Reddit r/Mahjong post by u/Erzz197: [https://www.reddit.com/r/Mahjong/comments/ap3fh3/mcr_fan_reference_sheet/](https://www.reddit.com/r/Mahjong/comments/ap3fh3/mcr_fan_reference_sheet/)
+- Reddit r/Mahjong [post by u/Erzz197](https://www.reddit.com/r/Mahjong/comments/ap3fh3/mcr_fan_reference_sheet/): [Reference Sheet](https://imgur.com/a/5syUtFI)
 - [Mahjong Picture Guide](https://www.mahjongpictureguide.com/) has a reference sheet: [http://mahjongpictureguide.com/pdf/MCR-Reference.pdf](http://mahjongpictureguide.com/pdf/MCR-Reference.pdf)
