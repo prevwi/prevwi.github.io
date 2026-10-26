@@ -14,7 +14,7 @@ Got suggestions? Feedback? Send your thoughts through the [Contact Us page](cont
   - Download [2014 official rule book](https://ooyamaneko.net/download/mahjong/mcr/MCR_2014_en.pdf) at [https://ooyamaneko.net/download/](https://ooyamaneko.net/download/)
   - Illustrated examples of scoring hands at MahjongJoy.com: [http://mahjongjoy.com/chinese_mahjong_hands.shtml](http://mahjongjoy.com/chinese_mahjong_hands.shtml)
   - Mahjong Wikidot has notes on what fan combos are not allowed: [https://mahjong.wikidot.com/rules:chinese-official-scoring](https://mahjong.wikidot.com/rules:chinese-official-scoring)
-  - Sloperama.com has an explanation of the principles of scoring: [https://mahjong.wikidot.com/rules:chinese-official-scoring](https://www.sloperama.com/mjfaq/mjfaq22.htm)
+  - Sloperama.com has an explanation of the principles of scoring: [https://www.sloperama.com/mjfaq/mjfaq22.htm](https://www.sloperama.com/mjfaq/mjfaq22.htm)
   - FreeMahjongPlay has probabilities of each hand: [https://freemahjongplay.com/american-mahjong-rules/mcr-rules/](https://freemahjongplay.com/american-mahjong-rules/mcr-rules/)
   - MCR is popular in Europe, though this site is currently down: [http://mahjong-europe.org](http://mahjong-europe.org)
   - MCR in the Netherlands: [https://www.mahjongdenhaag.nl/mcr-mahjong-scoring-elements-starterset](https://www.mahjongdenhaag.nl/mcr-mahjong-scoring-elements-starterset)
