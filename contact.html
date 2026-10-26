@@ -7,14 +7,19 @@
 </head>
 
 <body>
-  Send us your thoughts
 
-  <form action="https://api.staticforms.dev/submit" method="POST">
-    <input type="hidden" name="apiKey" value="sf_e2f6726a46c0d2afa92636ee">
-    <input type="email" name="email" required>
-    <textarea name="message" required></textarea>
-    <button type="submit">Send</button>
-  </form>
+    <p>Send us your thoughts</p>
+
+<div id="my-form"></div>
+<script src="https://www.staticforms.dev/scripts/staticforms.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    StaticForms.render(
+      document.getElementById('my-form'),
+      'sf_e2f6726a46c0d2afa92636ee'
+    );
+  });
+</script>
   
 </body>
   
