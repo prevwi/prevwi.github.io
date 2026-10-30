@@ -3,8 +3,8 @@
 There are hundreds of variations of mahjong in the world. MCR is the International Official version, aka Mahjong Competition Rules or Chinese Official rules. It is a modern rule set established by the Chinese government in 1998 and governed by the World Mahjong Organization (est. 2006) headquartered in Beijing, China. [Source](https://en.wikipedia.org/wiki/World_Mahjong_Organization) 
 
 Objectives
-- Oct. 2026: find a venue (pending), mahjong set (done), and people (3/4) to play with.
-- If there's demand, can start a business giving lessons, selling sets, selling accessories and swag.
+- Nov. 2026: find a venue (Coldfire Brewery), mahjong set (done), and people (3/4) to play with.
+- Just play for now, but if there's demand, can arrange for paid lessons, sell mahjong sets (what colors? white? blue? green? pink? purple?), anything else?
 
 Got suggestions? Feedback? Send your thoughts through the [Contact Us page](contact.html).
 
