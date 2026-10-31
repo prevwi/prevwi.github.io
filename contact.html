@@ -8,18 +8,20 @@
 
 <body>
 
-    <p>Send us your thoughts</p>
+    <p>Send your thoughts</p>
 
-<div id="my-form"></div>
-<script src="https://www.staticforms.dev/scripts/staticforms.js" defer></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    StaticForms.render(
-      document.getElementById('my-form'),
-      'sf_e2f6726a46c0d2afa92636ee'
-    );
-  });
-</script>
+    <form action="https://formbold.com/s/3LjWk" method="post">
+        <label for="email">Your Name (optional): </label>
+        <input name="Name" id="name" type="text">
+        
+        <br>
+        <label for="email">Your Email (optional): </label>
+        <input name="Email" id="email" type="email">
+        
+        <br>
+        <textarea name="message" placeholder="Type message..." required></textarea>
+        <button type="submit">Submit</button>
+    </form>
     
     <a href="https://prevwi.github.io/">
         <p>Return to main page</p>
