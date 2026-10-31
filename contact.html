@@ -17,7 +17,44 @@
         <button id="customerOrder">SUBMIT</button>
       </form>
     </div>
-    
+
+    <form class="fo-survey" action="https://formbold.com/s/oDK7x" method="post">
+      <fieldset class="fo-survey__q">
+        <legend class="fo-survey__legend">Which mahjong set color would you buy next?</legend>
+        <div class="fo-survey__opts">
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="blue"><span><strong>Blue</strong><small>Common tile color</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="green" checked><span><strong>Green</strong><small>Fitting for Duck country</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="pink"><span><strong>Pink</strong><small>On the feminine side</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="white"><span><strong>White</strong><small>No color split</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="purple"><span><strong>Purple</strong><small>Less common tile color</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="other"><span><strong>Other</strong><small>There are more interesting colors/designs</small></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__radio" type="radio" name="plan" value="none"><span><strong>None</strong><small>I already have enough/I'll borrow another's</small></span></label>
+        </div>
+      </fieldset>
+      <fieldset class="fo-survey__q">
+        <legend class="fo-survey__legend">Which tile size(s)? <span>Choose any or none</span></legend>
+        <div class="fo-survey__opts">
+          <label class="fo-survey__card"><input class="fo-survey__box" type="checkbox" name="feat" value="small" checked><span><strong>Small (#32)</strong></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__box" type="checkbox" name="feat" value="medium"><span><strong>Medium (#36)</strong></span></label>
+          <label class="fo-survey__card"><input class="fo-survey__box" type="checkbox" name="feat" value="large"><span><strong>Large (#40)</strong></span></label>
+        </div>
+      </fieldset>
+      <div class="fo-survey__foot">
+        <button class="fo-survey__btn" type="submit">Send answers</button>
+        <p class="fo-survey__status" role="status"></p>
+      </div>
+    </form>
+    <script>
+    document.querySelectorAll('.fo-survey').forEach(function (form) {
+      var status = form.querySelector('.fo-survey__status');
+      form.addEventListener('submit', function (event) {
+        event.preventDefault();
+        var picked = form.querySelectorAll('.fo-survey__box:checked').length;
+        status.textContent = 'Demo only: ' + picked + ' feature' + (picked === 1 ? '' : 's') + ' chosen, nothing sent.';
+      });
+    });
+    </script>
+        
     <a href="https://prevwi.github.io/">
         <h1>Return to main page</h1>
         <img src="https://prevwi.github.io/assets/prevwi_github_QR.png"></>
