@@ -2,8 +2,6 @@
 
 There are hundreds of variations of mahjong in the world. MCR is the International Official version, aka Mahjong Competition Rules or Chinese Official rules. It is a modern rule set established by the Chinese government in 1998 and governed by the World Mahjong Organization (est. 2006) headquartered in Beijing, China. [Source](https://en.wikipedia.org/wiki/World_Mahjong_Organization) 
 
-Let's play in Eugene/Springfield, Oregon! How to get involved [temporary website](https://mahjong.prevwi.workers.dev/) (don't bookmark yet).
-
 Got suggestions? Feedback? Send your thoughts through the [Contact Us page](contact.html).
 
 ## Recommended resources
